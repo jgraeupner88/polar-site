@@ -12,6 +12,8 @@ visible: false
 
 The following overview is loosely based on a presentation by Jay Graber at the Internet Archive in San Francisco on Jan 21, 2020
 
+large_image: https://imgur.com/BaJJyCJ
+
 Given the impact social media has had on our lives in the last few years - from less privacy to election interfering - an increasing focus has been put on decentralized social media platforms as a potential solution. In addition, the crypto boom of 2017 brought blockchain to the mainstream media, which further helped out projects in that space
 
 While these platforms promise a better solution to existing social media, no single platform has to date achieved the kind of success seen in the early stages of Facebook, Twitter, Reddit, and others. In fact, not only do many face technical challenges and delays, the business model is oftentimes not clear either
@@ -23,7 +25,12 @@ Decentralized social media platforms are primarily built on two types of protoco
 A federated protocol allows multiple small networks to talk to each other without giving away too much control
 
 Examples of platforms using such a protocol include ActivityPub built on Mastodon. ActivityPub is a social network with nearly about 2.2M users and roughly doubled its user base in 2019
+
+large_image: https://imgur.com/PCUysdj
+
 Matrix is a chat platform and another example using a federated protocol with ~11M users. Matrix allows multiple communication platforms to all integrate into one
+
+large_image: https://imgur.com/91LoKlw
 
 The main advantages of federated protocols are a familiar UX, no user key management, and control of moderation policy by the user. Generally speaking, platforms using federated protocols are closer to what we are used to seeing in social media. For example, they allow for users to change and delete content
 
@@ -34,6 +41,8 @@ The key disadvantages are a stronger dependence on admins, identities being pote
 In a peer-to-peer protocol, no distinction is made between a client and a server, meaning all nodes are equal
 
 The most well-known example of such a protocol is scuttlebutt. Scuttlebutt is a protocol for gossip sharing with an estimated 16k nodes. Social media platforms built on it include Patchwork, Manyverse, and Planetary
+
+large_image: https://imgur.com/chXxdT4
 
 In peer-to-peer protocols, users are identified by public keys or human-readable usernames. Moderation is typically achieved bottoms-up which provides a lot of flexibility on which kind of content and under what rules they want to engage with
 
